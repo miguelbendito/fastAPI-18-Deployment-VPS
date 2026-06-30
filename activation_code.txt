@@ -1,0 +1,10 @@
+to activate the server:
+source venv/bin/activate
+fastapi dev main.py
+
+to run pytest:
+pytest tests/test_posts.py -v
+pytest tests/test_users.py -v
+pytest tests -v
+
+to run postgresql:
