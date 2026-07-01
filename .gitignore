@@ -1,3 +1,5 @@
 .env
 .db
 .claude
+venv/
+.venv/
